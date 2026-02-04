@@ -1,45 +1,99 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sahil%20Ansari&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Designer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sahil%20Ansari&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Designer%20|%20CSE%20Undergraduate&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Sahil3268">
-    <img src="https://komarev.com/ghpvc/?username=Sahil3268&label=Profile%20views&color=00FFFF&style=flat-square" alt="Sahil3268's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Sahil3268&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile views" />
   </a>
 </p>
 
-## 📌 About Me
-- Myself Sahil Ansari studying B. Tech in CSE from KALYANI GOVERNMENT ENGINEERING COLLEGE ...
+---
 
+<h2 align="center">👋 Hey there, I'm Sahil Ansari</h2>
 
-## 📊 GitHub Stats & Trophies
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Sahil3268&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="Sahil3268's GitHub Stats" width="49%" /> -->
-  <img src="https://streak-stats.demolab.com/?user=Sahil3268&theme=radical&hide_border=true&cache_seconds=86400" alt="Sahil3268's GitHub Streak" width="49%" />
+  💻 Web Designer & Frontend Developer <br/>
+  🎓 B.Tech in Computer Science & Engineering <br/>
+  🏫 Kalyani Government Engineering College
 </p>
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahil3268&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sahil Ansari's GitHub Trophies" />
-</p> -->
 
+<p align="center">
+  Passionate about crafting clean, modern, and user-friendly web interfaces.  
+  I love transforming ideas into visually appealing and functional digital experiences.
+</p>
 
-## 🛠️ Languages & Tools
+---
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> </p>
+## 🚀 What I Do
+- 🎨 Design modern, responsive web interfaces  
+- ⚡ Build fast and scalable frontend applications  
+- 🧠 Continuously learning new technologies & best practices  
+- 🤝 Open to collaboration on exciting web projects  
 
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+---
 
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+## 📊 GitHub Activity
 
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sahil3268&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="55%" />
+</p>
 
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+---
 
+## 🛠️ Tech Stack
 
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/sahil--ansari/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:sahil.kgec@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+### 💡 Programming Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48"/>
+</p>
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="48"/>
+</p>
+
+### 🧩 Backend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48"/>
+</p>
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48"/>
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="48"/>
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil--ansari/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="40"/>
+  </a>
+  <a href="mailto:sahil.kgec@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="40"/>
+  </a>
+</p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
@@ -47,3 +101,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
+---
+
+<p align="center">
+  ✨ “Design is not just what it looks like, it’s how it works.” ✨
+</p>
