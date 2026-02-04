@@ -41,43 +41,20 @@
 
 ## 🛠️ Tech Stack
 
-### 💡 Programming Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp&theme=dark" />
 </p>
 
-### 🎨 Frontend
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind,bootstrap&theme=dark" />
 </p>
 
-### 🧩 Backend
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" />
 </p>
 
-### 🗄️ Database
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48"/>
-</p>
-
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vite&theme=dark" />
 </p>
 
 ---
