@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sahil%20Ansari&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Designer%20|%20CSE%20Undergraduate&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sahil%20Ansari&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Designer%20|%20CSE%20Undergraduate&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Sahil3268">
@@ -41,10 +41,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp&theme=dark" />
-</p>
-
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin: 4px;" /> </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind,bootstrap&theme=dark" />
 </p>
@@ -53,9 +50,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vite&theme=dark" />
-</p>
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" height="40" style="margin: 4px;" /></p>
 
 ---
 
